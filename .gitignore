@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pyc
+*~
+__pycache__
+myvenv
+db.postgresql
+/static
+.DS_Store
